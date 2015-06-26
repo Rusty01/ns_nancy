@@ -1,6 +1,7 @@
-name        = "Nancy_WIP - UNPLAYABLE"
+name        = "ns_dmd_nancy"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[]=]
+description = [=[Still Under Construction.
+DiamondGamers.net]=]
 image       = "preview.jpg"
-publish_id = "1bcceeb8"
+publish_id = "1bf8cb49"
