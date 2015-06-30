@@ -1,7 +1,6 @@
 name        = "ns_dmd_nancy"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[Still Under Construction.
-DiamondGamers.net]=]
+description = [=[Still Under Construction.DiamondGamers.net]=]
 image       = "preview.jpg"
-publish_id = "1c098101"
+publish_id = "1c2495c4"
